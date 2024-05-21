@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+
+##personal files
+res.json
+go.mod
